@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updated": "2026-06-18",
+  "grottos": [
+    {
+      "id": "colorado-grotto",
+      "name": "Colorado Grotto",
+      "region": "Colorado",
+      "city": "Golden"
+    },
+    {
+      "id": "front-range-grotto",
+      "name": "Front Range Grotto",
+      "region": "Colorado",
+      "city": "Northglenn"
+    },
+    {
+      "id": "northern-colorado-grotto",
+      "name": "Northern Colorado Grotto",
+      "region": "Colorado",
+      "city": "Fort Collins"
+    },
+    {
+      "id": "southern-colorado-mountain-grotto",
+      "name": "Southern Colorado Mountain Grotto",
+      "region": "Colorado",
+      "city": "Colorado Springs"
+    },
+    {
+      "id": "colorado-western-slope-grotto",
+      "name": "Colorado Western Slope Grotto",
+      "region": "Colorado",
+      "city": "Rifle"
+    },
+    {
+      "id": "timberline-grotto",
+      "name": "Timberline Grotto",
+      "region": "Colorado",
+      "city": "Eagle"
+    }
+  ]
+}
