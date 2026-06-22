@@ -1,12 +1,36 @@
 {
-  "version": 1,
-  "updated": "2026-06-18",
+  "version": 2,
+  "updated": "2026-06-22",
   "grottos": [
     {
       "id": "unaffiliated",
       "name": "Unaffiliated",
       "region": null,
       "city": null
+    },
+    {
+      "id": "colorado-western-slope-grotto",
+      "name": "Colorado Western Slope Grotto",
+      "region": "Colorado",
+      "city": "Rifle"
+    },
+    {
+      "id": "southern-colorado-mountain-grotto",
+      "name": "Southern Colorado Mountain Grotto",
+      "region": "Colorado",
+      "city": "Colorado Springs"
+    },
+    {
+      "id": "timberline-grotto",
+      "name": "Timberline Grotto",
+      "region": "Colorado",
+      "city": "Glenwood Springs"
+    },
+    {
+      "id": "central-indiana-grotto",
+      "name": "Central Indiana Grotto",
+      "region": "Indiana",
+      "city": "Indianapolis"
     }
   ]
 }
