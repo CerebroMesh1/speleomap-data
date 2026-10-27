@@ -1,12 +1,12 @@
-   {
-     "version": 3,
-     "updated": "2026-10-27",
-     "grottos": [
-       {
-         "id": "williams-canyon-cave-conservancy",
-         "name": "Williams Canyon Cave Conservancy",
-         "region": "Colorado",
-         "city": "Manitou Springs"
-       }
-     ]
-   }
+{
+  "version": 4,
+  "updated": "2026-10-27",
+  "organizations": [
+    {
+      "id": "williams-canyon-cave-conservancy",
+      "name": "Williams Canyon Cave Conservancy",
+      "region": "Colorado",
+      "city": "Manitou Springs"
+    }
+  ]
+}
